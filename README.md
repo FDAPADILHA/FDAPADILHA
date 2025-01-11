@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**FDAPADILHA/FDAPADILHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Realizando graduação em Ciências da Computação. Atualmente trabalhando na MáximaTech como Analista de Sistemas (Gatekeeper).
 
-Here are some ideas to get you started:
+- 💻 Buscando trabalhar com desenvolvimento Backend
+- 🌟 Interessado em aprender novas linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As linguagens que eu trabalho: 
+
+## 🌟 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical" alt="Suas estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</div>
