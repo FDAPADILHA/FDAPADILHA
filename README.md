@@ -1,8 +1,8 @@
 ## Hi 👋
 
-Realizando graduação em Ciências da Computação. Atualmente trabalhando na MáximaTech como Analista de Sistemas (Gatekeeper).
+Realizando graduação em Ciências da Computação. Atualmente trabalhando na MáximaTech como Analista de Sistemas Desenvolvedor Backend.
 
-- 💻 Buscando trabalhar com desenvolvimento Backend
+- 💻 Desenvolvedor Backend PL/SQL e C#
 <br></br>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
