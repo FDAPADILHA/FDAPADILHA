@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Realizando graduação em Ciências da Computação. Atualmente trabalhando na MáximaTech como Analista de Sistemas Desenvolvedor Backend.
+Realizando graduação em Ciências da Computação. Atualmente trabalhando na MáximaTech como Analista de Sistemas Desenvolvedor FullStack.
 
 - 💻 Desenvolvedor Backend PL/SQL e C#
 <br></br>
