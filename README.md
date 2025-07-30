@@ -2,7 +2,7 @@
 
 Realizando graduação em Ciências da Computação. Atualmente trabalhando na MáximaTech como Analista de Sistemas Desenvolvedor FullStack.
 
-- 💻 Desenvolvedor Backend PL/SQL e C#
+- 💻 Desenvolvedor Full Stack React, Angular, PL/SQL e C#
 <br></br>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
